@@ -1,0 +1,15 @@
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.csproj.AssemblyReference.cache
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.AssemblyInfoInputs.cache
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.AssemblyInfo.cs
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.csproj.CoreCompileInputs.cache
+D:\WorkShopC\GBTest\bin\Debug\net6.0\GBTest.exe
+D:\WorkShopC\GBTest\bin\Debug\net6.0\GBTest.deps.json
+D:\WorkShopC\GBTest\bin\Debug\net6.0\GBTest.runtimeconfig.json
+D:\WorkShopC\GBTest\bin\Debug\net6.0\GBTest.dll
+D:\WorkShopC\GBTest\bin\Debug\net6.0\GBTest.pdb
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.dll
+D:\WorkShopC\GBTest\obj\Debug\net6.0\refint\GBTest.dll
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.pdb
+D:\WorkShopC\GBTest\obj\Debug\net6.0\GBTest.genruntimeconfig.cache
+D:\WorkShopC\GBTest\obj\Debug\net6.0\ref\GBTest.dll
